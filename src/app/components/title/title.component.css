@@ -40,10 +40,15 @@ line-height: 72.7px; /* 134.47% */
   margin: 55px;
 
 }
-
+.container-logos{
+  margin-top: 119px;
+}
 .container__profile{
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
+.container-gallery{
+  padding-bottom: 25px;
+}
