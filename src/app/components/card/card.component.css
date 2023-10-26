@@ -64,18 +64,27 @@ line-height: 17.002px; /* 158.824% */
 
 .header__button{
   color: var(--White, #FFF);
-text-align: center;
-font-family: Epilogue;
-font-size: 12.594px;
-font-style: normal;
-font-weight: 600;
-line-height: 18.891px; /* 150% */
+  text-align: center;
+  font-family: Epilogue;
+  /* font-size: 12.594px; */
+  font-style: normal;
+  font-weight: 600;
+  width: 100%;
+  /* line-height: 18.891px; */
+  padding: 4px;
+  cursor: pointer;
+}
+
+.email{
+  text-decoration: none;
+    color: white;
 }
 
 .header__photo{
-  height: 226.688px;
+
   min-width: 201.5px;
-  max-width: 302.25px;
+  max-width: 100%;
   flex: 1 0 0;
   background: url(https://scontent.fsdu22-1.fna.fbcdn.net/v/t1.6435-9/72040552_436213380359057_3979576135078903808_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=68be17&_nc_eui2=AeHY2qzTAjQRq0mURLTR8z8eTHAXG4M93atMcBcbgz3dq_9sOKAa-JaJ2BNQvJRI1Qx6UE2Tj05j2qHpi1aIfpIn&_nc_ohc=mOl_qvash84AX-nQfbm&_nc_ht=scontent.fsdu22-1.fna&oh=00_AfCHrvCXajbsOob2ZqnTr059K78h8JDogM6EObGfmHjUBw&oe=655E3CC7), lightgray 50% / contain no-repeat;
+  border-radius: 8px;
 }
