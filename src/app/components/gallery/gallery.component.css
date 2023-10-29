@@ -54,3 +54,8 @@ font-weight: 400;
 line-height: 13.048px; /* 158.824% */
 
 }
+
+.container-gallery-link {
+  text-decoration: none;
+  color: white;
+}

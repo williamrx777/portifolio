@@ -7,9 +7,10 @@ import { Component, OnInit } from '@angular/core';
 })
 export class GalleryComponent implements OnInit{
   top:string = 'Latest work'
-  projeto1:string ='https://ayine.com.br/wp-content/uploads/2022/03/Miolo-diagonal-O-livro-dos-amigos-site.png'
-  title:string = 'Project title'
-  description:string = 'UI, Art drection'
+  projeto1:string ='https://img.freepik.com/vetores-premium/logotipo-vintage-para-comida-e-bebida-do-restaurante_116238-69.jpg'
+  title:string = 'Caferia'
+  description:string = 'Cafeteria foi feito para uma pessoa em ambiente presencial adiciona suas vendas. Tecnologias usadas foi angular para frontend e o springboot para o backend.'
+  link:string = 'https://cafeteria-alpha.vercel.app/'
   constructor() {
 
   }
