@@ -28,9 +28,8 @@ margin: 20px;
 .container__content{
   display: flex;
   background-color: white;
-  flex-direction: column;
-  /* flex-wrap: wrap; */
-  align-items: baseline;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 .container-gallery-title{
