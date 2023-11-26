@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class LogosComponent implements OnInit{
 
-  logo1:string = '../assets/angular-svgrepo-com.svg'
+
   logo2:string = '../assets/java-svgrepo-com.svg'
   logo3:string = '../assets/spring-icon-svgrepo-com.svg'
 
