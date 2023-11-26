@@ -59,3 +59,13 @@ line-height: 13.048px; /* 158.824% */
   text-decoration: none;
   color: white;
 }
+
+@media screen and (max-width: 1440px) {
+  .container-gallery{
+    width: 100%;
+  height: 531.588px;
+  transform: rotate(-0.153deg);
+  flex-shrink: 0;
+  background-color: #FFF;
+  }
+}
