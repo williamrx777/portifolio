@@ -67,4 +67,11 @@ line-height: 13.048px; /* 158.824% */
   flex-shrink: 0;
   background-color: #FFF;
   }
+  .container__content{
+    display: flex;
+    background-color: white;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+  }
 }
