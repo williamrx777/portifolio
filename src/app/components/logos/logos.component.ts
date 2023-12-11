@@ -6,11 +6,11 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./logos.component.css']
 })
 export class LogosComponent implements OnInit{
-
-
+  logo1:string = '../assets/angular-svgrepo-com.svg'
   logo2:string = '../assets/java-svgrepo-com.svg'
   logo3:string = '../assets/spring-icon-svgrepo-com.svg'
-
+  logo4:string = '../assets/python-svgrepo-com.svg'
+  logo5:string = '../assets/django-svgrepo-com.svg'
   constructor() {
 
   }

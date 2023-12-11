@@ -30,7 +30,6 @@ margin: 20px;
   background-color: white;
   flex-wrap: wrap;
   align-items: center;
-  flex-direction: column;
 }
 
 .container-gallery-title{
