@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class TitleComponent implements OnInit{
 
   title:string = 'Dev Fullstack'
-  description:string = 'Tecnologias Angular , Java Spring , Python e Django'
+  description:string = 'Tecnologias Angular , Java Spring , Python Django e Php Laravel'
 
   constructor() {
 
