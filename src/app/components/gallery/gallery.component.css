@@ -1,6 +1,6 @@
 .container-gallery{
   width: 618.576px;
-height: 531.588px;
+height: 400px;
 transform: rotate(-0.153deg);
 flex-shrink: 0;
 background-color: #FFF;
@@ -22,7 +22,7 @@ padding-top: 15px;
 height: 159.477px;
 flex-shrink: 0;
 background: url(https://ayine.com.br/wp-content/uploads/2022/03/Miolo-diagonal-O-livro-dos-amigos-site.png), lightgray 50% / cover no-repeat;
-margin: 20px;
+margin: 10px;
 }
 
 .container__content{
@@ -59,7 +59,7 @@ line-height: 13.048px; /* 158.824% */
   color: white;
 }
 
-@media screen and (max-width: 1440px) {
+/* @media screen and (max-width: 1440px) {
   .container-gallery{
     width: 100%;
   height: 531.588px;
@@ -74,4 +74,4 @@ line-height: 13.048px; /* 158.824% */
     align-items: center;
     flex-direction: column;
   }
-}
+} */

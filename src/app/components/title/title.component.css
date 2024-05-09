@@ -13,7 +13,7 @@
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   /* H1 */
   font-family: Epilogue;
-  font-size: 100px;
+  font-size: 50px;
   font-style: normal;
   font-weight: 600;
   line-height: normal;
@@ -31,7 +31,7 @@ margin: 15px;
   width: 458.137px;
   color: #FFF;
 font-family: Epilogue;
-font-size: 54.064px;
+font-size: 20px;
 font-style: normal;
 font-weight: 500;
 line-height: 72.7px; /* 134.47% */
@@ -54,12 +54,12 @@ line-height: 72.7px; /* 134.47% */
   padding-bottom: 25px;
 }
 
-@media screen and (max-width: 1440px) {
+/* @media screen and (max-width: 1440px) {
   .container__title {
     color: #FFF;
 
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    /* H1 */
+ 
     font-family: Epilogue;
     font-size: 100%;
     font-style: normal;
@@ -77,6 +77,6 @@ line-height: 72.7px; /* 134.47% */
   font-size: 100%;
   font-style: normal;
   font-weight: 500;
-  line-height: 72.7px; /* 134.47% */
+  line-height: 72.7px; 
   }
-}
+} */
