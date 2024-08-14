@@ -11,6 +11,7 @@ export class LogosComponent implements OnInit{
   logo3:string = '../assets/spring-icon-svgrepo-com.svg'
   logo4:string = '../assets/python-svgrepo-com.svg'
   logo5:string = '../assets/django-svgrepo-com.svg'
+  logo6:string = '../assets/wordpress.png'
   constructor() {
 
   }
