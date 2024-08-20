@@ -75,3 +75,9 @@ line-height: 13.048px; /* 158.824% */
     flex-direction: column;
   }
 } */
+
+@media screen and(max-width:768px) {
+  .container-gallery-title .container-gallery-paragraph{
+    font-size: 18px;
+  }
+}
