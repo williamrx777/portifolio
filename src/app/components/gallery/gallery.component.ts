@@ -13,8 +13,12 @@ export class GalleryComponent implements OnInit{
   link:string = 'https://comunidaderompendoemfe.vercel.app/'
   projeto3:string = './assets/LOGO_GMR_50_ANOS.jpg'
   title3:string = 'GMR'
-  description3:string = 'GMR Equipamentos eletricos tecnologias usadas foi Wordpress.'
+  description3:string = 'Site da GMR Equipamentos eletricos tecnologias usadas foi Wordpress.'
   link3:string = 'https://gmr.com.br/'
+  projeto2:string = './assets/LOGO_GMR_50_ANOS.jpg'
+  title2:string = 'GMR'
+  description2:string = 'Lista de Ramais GMR Equipamentos eletricos tecnologias usadas'
+  link2:string = 'https://953086e7-66b5-437b-b9f8-eab0dd2b73ba-00-1jkh5shfhi7q5.janeway.replit.dev/'
   constructor() {
 
   }
