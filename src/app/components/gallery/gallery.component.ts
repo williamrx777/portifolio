@@ -19,7 +19,7 @@ export class GalleryComponent implements OnInit{
   title2:string = 'GMR'
   description2:string = 'Lista de Ramais GMR Equipamentos eletricos tecnologias usadas'
   link2:string = 'https://953086e7-66b5-437b-b9f8-eab0dd2b73ba-00-1jkh5shfhi7q5.janeway.replit.dev/'
-  projeto4:string = './assets/dolar&real&euro.jpg'
+  
   
   constructor() {
 
