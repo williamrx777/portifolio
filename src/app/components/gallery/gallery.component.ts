@@ -18,12 +18,19 @@ export class GalleryComponent implements OnInit{
   projeto2:string = './assets/LOGO_GMR_50_ANOS.jpg'
   title2:string = 'GMR'
   description2:string = 'Lista de Ramais GMR Equipamentos eletricos tecnologias usadas'
-  link2:string = 'https://953086e7-66b5-437b-b9f8-eab0dd2b73ba-00-1jkh5shfhi7q5.janeway.replit.dev/'
+  link2:string = 'https://projects-jhb3.onrender.com/ramais/'
   projeto4:string = './assets/LOGO_GMR_50_ANOS.jpg'
   title4:string = 'Chamado TI'
   description4:string = 'Sistema de chamados tecnologias usadas foi flask e postgres.'
   link4:string = 'https://chamado-ti.onrender.com/'
-  
+  projeto5:string = './assets/pinterest.jpg'
+  title5:string = 'Pinterest'
+  description5:string = 'Replica pinterest tecnologias usadas foi django e postgres.'
+  link5:string = 'https://projects-jhb3.onrender.com/pinterest/login/'
+  projeto6:string = './assets/logo_adote.png'
+  title6:string = 'Adote um Pet'
+  description6:string = 'Sistema de adoção de pets tecnologias usadas foi django e postgres.'
+  link6:string = 'https://projects-jhb3.onrender.com/adote/usuario/logar/'
   constructor() {
 
   }
