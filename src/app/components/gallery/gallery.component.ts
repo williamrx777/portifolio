@@ -35,6 +35,11 @@ export class GalleryComponent implements OnInit{
   title7:string = 'Biblia Sagrada'
   description7:string = 'Site da biblia tecnologias usadas foi flask e react e postgres.'
   link7:string = 'https://bible-gold.vercel.app/'
+  projeto8:string = 'https://t.ctcdn.com.br/gwh6DjXb5g-t4fP2RZU4AFx_6y8=/i489934.jpeg'
+  title8:string = 'Spotify Clone'
+  description8:string = 'Site da spotify tecnologias usadas foi django e postgres.'
+  link8:string = 'https://spotify-clone-7y26.onrender.com/'
+
   constructor() {
 
   }
