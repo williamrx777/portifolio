@@ -38,7 +38,7 @@ export class GalleryComponent implements OnInit{
   projeto8:string = 'https://t.ctcdn.com.br/gwh6DjXb5g-t4fP2RZU4AFx_6y8=/i489934.jpeg'
   title8:string = 'Spotify Clone'
   description8:string = 'Site da spotify tecnologias usadas foi django e postgres.'
-  link8:string = 'https://spotify-clone-7y26.onrender.com/'
+  link8:string = 'https://9781af29-0b8c-4bb8-a5fe-c03d3a40f9c6-00-2r7zjn25laplo.worf.replit.dev/'
 
   constructor() {
 
