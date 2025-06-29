@@ -31,10 +31,10 @@ export class GalleryComponent implements OnInit{
   title6:string = 'Adote um Pet'
   description6:string = 'Sistema de adoção de pets tecnologias usadas foi django e postgres.'
   link6:string = 'https://projects-jhb3.onrender.com/adote/usuario/logar/'
-  projeto7:string = 'https://images.emojiterra.com/microsoft/fluent-emoji/15.1/1024px/1f6cd_color.png'
-  title7:string = 'Nossa Vitrine'
-  description7:string = 'Site de ecommerce tecnologias usadas foi django e postgres.'
-  link7:string = 'https://ecommerce-n4s3mtqsv-williamrx777s-projects.vercel.app/'
+  projeto7:string = 'https://m.media-amazon.com/images/I/71-iYQS2XuL._UF894,1000_QL80_.jpg'
+  title7:string = 'Biblia Sagrada'
+  description7:string = 'Site da biblia tecnologias usadas foi flask e react e postgres.'
+  link7:string = 'https://bible-gold.vercel.app/'
   constructor() {
 
   }

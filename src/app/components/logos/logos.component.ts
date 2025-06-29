@@ -12,6 +12,7 @@ export class LogosComponent implements OnInit{
   logo4:string = '../assets/python-svgrepo-com.svg'
   logo5:string = '../assets/django-svgrepo-com.svg'
   logo6:string = '../assets/wordpress.png'
+  logo7:string = '../assets/react-1.svg'
   constructor() {
 
   }
